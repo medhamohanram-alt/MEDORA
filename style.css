@@ -1,0 +1,21 @@
+
+@font-face{
+    font-family:Elegant;
+    src: url(elegant.ttf);
+    font: weight 1px;
+}
+
+body{
+    background-color: antiquewhite;
+}
+
+h1{
+    text-align: center;
+    font-family:Elegant;
+    font-size:70px;
+}
+
+h2{
+    text-align: center;
+    font-family:Elegant;
+}
